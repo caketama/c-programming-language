@@ -1,2 +1,2 @@
 # c-programming-language
-Problemsets from The C Programming Language book
+Problem sets from The C Programming Language book
